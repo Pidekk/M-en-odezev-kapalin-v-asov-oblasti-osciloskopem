@@ -1,2 +1,2 @@
-# Měenřo odezev kapalin v časovové oblasti osciloskopem
+# Měření odezev kapalin v časovové oblasti osciloskopem
 Tento github slouží jako příloha bakalářské práce, pro ukládání grafů
