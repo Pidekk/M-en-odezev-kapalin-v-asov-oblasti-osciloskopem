@@ -3,5 +3,5 @@ Tento github slouží jako příloha bakalářské práce, pro ukládání graf�
 Zdrojové kódy byly pro všechny látky jsou stejné, liší se pouze v názvech načítaných souborů.
 
 ## Fotka pracoviště
-<img src="fotky z měření/pracoviště.jpg" alt="Fotka pracoviště" width="200">
+<img src="Fotky%20z%20měření/pracoviště.jpg" alt="Fotka pracoviště" width="200">
 
