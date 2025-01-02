@@ -14,32 +14,32 @@ Nelinearita byla měřena na třech vybraných frekvencích a pro různé hodnot
 
 ### Buzení sinusovým signálem 40kHz
 
-<img src="Nelinearita/Sinus/40kHz/40kHz1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/40kHz/40kHz5V.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus/40kHz/40kHz10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/40kHz/40kHz15V.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus/40kHz/40kHz20V.jpg" alt="Nelinearita lihu" width="500"/> 
+<img src="Nelinearita/sinus/40kHz/40kHz1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/sinus/40kHz/40kHz5V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/sinus/40kHz/40kHz10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/sinus/40kHz/40kHz15V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/sinus/40kHz/40kHz20V.jpg" alt="Nelinearita lihu" width="500"/> 
 
 
 ### Buzení sinusovým signálem 500kHz
 
-<img src="Nelinearita/Sinus/500kHz/500kHz1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/500kHz/500kHz5V.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus500kHz/500kHz10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/500kHz/500kHz15V.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus/500kHz/500kHz20V.jpg" alt="Nelinearita lihu" width="500"/> 
-
-### Buzení obdélníkovým signálem 30Hz
-
-<img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq50mV.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq100mV.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq300mV.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq500mV.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq1V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq3V.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/sinus/500kHz/500kHz1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/sinus/500kHz/500kHz5V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/sinus500kHz/500kHz10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/sinus/500kHz/500kHz15V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/sinus/500kHz/500kHz20V.jpg" alt="Nelinearita lihu" width="500"/> 
 
 ### Buzení obdélníkovým signálem 100Hz
 
-<img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq50mV.jpg" alt="Nelinearita mléka sq" width="500"/> <img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq100mV.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq300mV.jpg" alt="Nelinearita mléka sq" width="500"/> <img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq500mV.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq1V.jpg" alt="Nelinearita mléka sq" width="500"/> <img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq3V.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/obdélník/100Hzsq/100Hz_sq1V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/obdélník/100Hzsq/100Hz_sq5V.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/obdélník/100Hzsq/100Hz_sq10V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/obdélník/100Hzsq/100Hz_sq15V.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/obdélník/100Hzsq/100Hz_sq20V.jpg" alt="Nelinearita mléka" width="500"/>
 
-### Buzení obdélníkovým signálem 100kHz
+### Buzení obdélníkovým signálem 30kHz
 
-<img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq50mV.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq100mV.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq300mV.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq500mV.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq1V.jpg" alt="Nelinearita mléka" width="500"/> 
+<img src="Nelinearita/obdélník/30kHzsq/30kHz_sq1V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/obdélník/30kHzsq/30kHz_sq5V.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/obdélník/30kHzsq/30kHz_sq10V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/obdélník/30kHzsq/30kHz_sq15V.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/obdélník/30kHzsq/30kHz_sq20V.jpg" alt="Nelinearita mléka" width="500"/>
+
+### Buzení obdélníkovým signálem 500kHz
+
+<img src="Nelinearita/obdélník/500kHzsq/500kHz_sq1V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/obdélník/500kHzsq/500kHz_sq5V.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/obdélník/500kHzsq/500kHz_sq10V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/obdélník/500kHzsq/500kHz_sq15V.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/obdélník/500kHzsq/500kHz_sq20V.jpg" alt="Nelinearita mléka" width="500"/>
 
