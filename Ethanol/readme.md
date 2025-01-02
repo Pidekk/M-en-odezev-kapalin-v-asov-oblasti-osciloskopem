@@ -22,7 +22,7 @@ Nelinearita byla měřena na třech vybraných frekvencích a pro různé hodnot
 ### Buzení sinusovým signálem 500kHz
 
 <img src="Nelinearita/sinus/500kHz/500kHz1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/sinus/500kHz/500kHz5V.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/sinus500kHz/500kHz10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/sinus/500kHz/500kHz15V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/sinus/500kHz/500kHz10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/sinus/500kHz/500kHz15V.jpg" alt="Nelinearita lihu" width="500"/>
 <img src="Nelinearita/sinus/500kHz/500kHz20V.jpg" alt="Nelinearita lihu" width="500"/> 
 
 ### Buzení obdélníkovým signálem 100Hz
