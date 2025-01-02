@@ -17,7 +17,7 @@ Nelinearita byla měřena na třech vybraných frekvencích a pro různé hodnot
 <img src="Nelinearita/Sinus/30Hz/30Hz_3V.jpg" alt="Nelinearita mléka" width="500"/>
 <img src="Nelinearita/Sinus/30Hz/30Hz_5V.jpg" alt="Nelinearita mléka" width="500"/>
 
-## Buzení sinusovým signálem 100Hz
+### Buzení sinusovým signálem 100Hz
 
 <img src="Nelinearita/Sinus/100Hz/100Hz_50mV.jpg" alt="Nelinearita mléka" width="500"/>
 <img src="Nelinearita/Sinus/100Hz/100Hz_100mV.jpg" alt="Nelinearita mléka" width="500"/>
@@ -26,12 +26,11 @@ Nelinearita byla měřena na třech vybraných frekvencích a pro různé hodnot
 <img src="Nelinearita/Sinus/100Hz/100Hz_1V.jpg" alt="Nelinearita mléka" width="500"/>
 <img src="Nelinearita/Sinus/100Hz/100Hz_3V.jpg" alt="Nelinearita mléka" width="500"/>
 
-## Buzení sinusovým signálem 100kHz
+### Buzení sinusovým signálem 100kHz
 
 <img src="Nelinearita/Sinus/100kHz/100kHz_50mV.jpg" alt="Nelinearita mléka" width="500"/>
 <img src="Nelinearita/Sinus/100kHz/100kHz_100mV.jpg" alt="Nelinearita mléka" width="500"/>
 <img src="Nelinearita/Sinus/100kHz/100kHz_300mV.jpg" alt="Nelinearita mléka" width="500"/>
 <img src="Nelinearita/Sinus/100kHz/100kHz_500mV.jpg" alt="Nelinearita mléka" width="500"/>
 <img src="Nelinearita/Sinus/100kHz/100kHz_1V.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Sinus/100kHz/100kHz_3V.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Sinus/100kHz/100kHz_5V.jpg" alt="Nelinearita mléka" width="500"/>
+
