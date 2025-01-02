@@ -8,11 +8,11 @@ Nelinearita byla měřena na třech vybraných frekvencích a pro různé hodnot
 
 ### Buzení sinusovým signálem 1kHz
 
-<img src="Nelinearita/Sinus/100Hz/100Hz_50mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/100Hz/100Hz_100mV.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus/100Hz/100Hz_300mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/100Hz/100Hz_500mV.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus/100Hz/100Hz_1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/100Hz/100Hz_5V.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus/100Hz/100Hz_10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/100Hz/100Hz_15V.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus/100Hz/100Hz_20V.jpg" alt="Nelinearita lihu" width="500"/> 
+<img src="Nelinearita/Sinus/1kHz/1kHz_50mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHz/1kHz_100mV.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1kHz/1kHz_300mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHz/1kHz_500mV.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1kHz/1kHz_1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHz/1kHz_5V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1kHz/1kHz_10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHz/1kHz_15V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1kHz/1kHz_20V.jpg" alt="Nelinearita lihu" width="500"/> 
 
 ### Buzení sinusovým signálem 60kHz
 
