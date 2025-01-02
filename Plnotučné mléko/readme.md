@@ -43,4 +43,4 @@ Nelinearita byla měřena na třech vybraných frekvencích a pro různé hodnot
 
 <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq50mV.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq100mV.jpg" alt="Nelinearita mléka" width="500"/>
 <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq300mV.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq500mV.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq1V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq3V.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq1V.jpg" alt="Nelinearita mléka" width="500"/> 
