@@ -27,20 +27,20 @@ Nelinearita byla měřena na třech vybraných frekvencích a pro různé hodnot
 <img src="Nelinearita/Sinus/100kHz/100kHz_300mV.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Sinus/100kHz/100kHz_500mV.jpg" alt="Nelinearita mléka" width="500"/>
 <img src="Nelinearita/Sinus/100kHz/100kHz_1V.jpg" alt="Nelinearita mléka" width="500"/>
 
-### Buzení bdélníkovým signálem 30Hz
+### Buzení obdélníkovým signálem 30Hz
 
-<img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq50mV.jpg.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq100mV.jpg.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq300mV.jpg.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq500mV.jpg.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq1V.jpg.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq3V.jpg.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq50mV.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq100mV.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq300mV.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq500mV.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq1V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/30Hzsq/30Hz_sq3V.jpg" alt="Nelinearita mléka" width="500"/>
 
-### Buzení bdélníkovým signálem 100Hz
+### Buzení obdélníkovým signálem 100Hz
 
-<img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq50mV.jpg.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq100mV.jpg.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq300mV.jpg.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq500mV.jpg.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq1V.jpg.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq3V.jpg.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq50mV.jpg" alt="Nelinearita mléka sq" width="500"/> <img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq100mV.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq300mV.jpg" alt="Nelinearita mléka sq" width="500"/> <img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq500mV.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq1V.jpg" alt="Nelinearita mléka sq" width="500"/> <img src="Nelinearita/Obdélník/100Hzsq/100Hz_sq3V.jpg" alt="Nelinearita mléka" width="500"/>
 
-### Buzení bdélníkovým signálem 100kHz
+### Buzení obdélníkovým signálem 100kHz
 
-<img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq50mV.jpg.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq100mV.jpg.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq300mV.jpg.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq500mV.jpg.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq1V.jpg.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq3V.jpg.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq50mV.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq100mV.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq300mV.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq500mV.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq1V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/Obdélník/100kHzsq/100kHz_sq3V.jpg" alt="Nelinearita mléka" width="500"/>
