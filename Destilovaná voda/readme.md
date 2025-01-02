@@ -51,7 +51,7 @@ Nelinearita byla měřena na třech vybraných frekvencích a pro různé hodnot
 
 <img src="Nelinearita/Obdélník/200kHzsq/200kHz_sq50mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Obdélník/200kHzsq/200kHz_sq100mV.jpg" alt="Nelinearita lihu" width="500"/>
 <img src="Nelinearita/Obdélník/200kHzsq/200kHz_sq300mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Obdélník/200kHzsq/200kHz_sq500mV.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Obdélník/20kHzsq/200kHz_sq1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Obdélník/200kHzsq/200kHz_sq5V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Obdélník/200kHzsq/200kHz_sq1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Obdélník/200kHzsq/200kHz_sq5V.jpg" alt="Nelinearita lihu" width="500"/>
 <img src="Nelinearita/Obdélník/200kHzsq/200kHz_sq10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Obdélník/200kHzsq/200kHz_sq15V.jpg" alt="Nelinearita lihu" width="500"/>
 <img src="Nelinearita/Obdélník/200kHzsq/200kHz_sq20V.jpg" alt="Nelinearita lihu" width="500"/> 
 
