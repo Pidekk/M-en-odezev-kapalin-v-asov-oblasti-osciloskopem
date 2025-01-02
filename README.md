@@ -5,3 +5,5 @@ Zdrojové kódy byly pro všechny látky jsou stejné, liší se pouze v názvec
 ## Fotka pracoviště
 <img src="Fotky%20z%20měření/pracoviště.jpg" alt="Fotka pracoviště" width="500">
 
+## Vzorky kapalin
+<img src="Fotky%20z%20měření/vzorky.jpg" alt="Vzorky kapalin" width="500">
