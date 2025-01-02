@@ -1,18 +1,18 @@
 # Meření destilované vody
 ## Impedační charakteristika
 
-<img src="Impedační%20charakteristika%20destilované%20vody.jpg.jpg" alt="Frekveční charakteristika des. vody" width="500"/>
+<img src="Impedační%20charakteristika%20destilované%20vody.jpg" alt="Frekveční charakteristika des. vody" width="500"/>
 
 ## Nelinearita ethanolu
 Nelinearita byla měřena na třech vybraných frekvencích a pro různé hodnoty budícího signálu
 
 ### Buzení sinusovým signálem 1kHz
 
-<img src="Nelinearita/Sinus/1kHz/1kHz_50mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHz/1kHz_100mV.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus/1kHz/1kHz_300mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHz/1kHz_500mV.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus/1kHz/1kHz_1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHz/1kHz_5V.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus/1kHz/1kHz_10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHz/1kHz_15V.jpg" alt="Nelinearita lihu" width="500"/>
-<img src="Nelinearita/Sinus/1kHz/1kHz_20V.jpg" alt="Nelinearita lihu" width="500"/> 
+<img src="Nelinearita/Sinus/1khz/1kHz_50mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1khz/1kHz_100mV.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1khz/1kHz_300mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1khz/1kHz_500mV.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1khz/1kHz_1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1khz/1kHz_5V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1khz/1kHz_10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1khz/1kHz_15V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1khz/1kHz_20V.jpg" alt="Nelinearita lihu" width="500"/> 
 
 ### Buzení sinusovým signálem 60kHz
 
