@@ -31,11 +31,13 @@ Nelinearita byla měřena na třech vybraných frekvencích a pro různé hodnot
 <img src="Nelinearita/Sinus/200kHz/200kHz_10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/200kHz/200kHz_15V.jpg" alt="Nelinearita lihu" width="500"/>
 <img src="Nelinearita/Sinus/200kHz/200kHz_20V.jpg" alt="Nelinearita lihu" width="500"/> 
 
-### Buzení obdélníkovým signálem 100Hz
+### Buzení obdélníkovým signálem 1kHz
 
-<img src="Nelinearita/obdélník/100Hzsq/100Hzsq_1V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/obdélník/100Hzsq/100Hzsq_5V.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/obdélník/100Hzsq/100Hzsq_10V.jpg" alt="Nelinearita mléka" width="500"/> <img src="Nelinearita/obdélník/100Hzsq/100Hzsq_15V.jpg" alt="Nelinearita mléka" width="500"/>
-<img src="Nelinearita/obdélník/100Hzsq/100Hzsq_20V.jpg" alt="Nelinearita mléka" width="500"/>
+<img src="Nelinearita/Sinus/1kHzsq/1kHz_sq50mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHzsq/1kHz_sq00mV.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1kHzsq/1kHz_sq300mV.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHzsq/1kHz_sq500mV.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1kHzsq/1kHz_sq1V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHzsq/1kHz_sq5V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1kHzsq/1kHz_sq10V.jpg" alt="Nelinearita lihu" width="500"/> <img src="Nelinearita/Sinus/1kHzsq/1kHz_sq15V.jpg" alt="Nelinearita lihu" width="500"/>
+<img src="Nelinearita/Sinus/1kHzsq/1kHz_sq20V.jpg" alt="Nelinearita lihu" width="500"/> 
 
 ### Buzení obdélníkovým signálem 30kHz
 
