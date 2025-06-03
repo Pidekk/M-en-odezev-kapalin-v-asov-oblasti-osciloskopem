@@ -1,9 +1,25 @@
 # Měření odezev kapalin v časovové oblasti osciloskopem
-Tento github slouží jako příloha bakalářské práce, pro ukládání grafů a zdrojových kódů.
-Zdrojové kódy byly pro všechny látky jsou stejné, liší se pouze v názvech načítaných souborů.
+Tento repozitář slouží jako příloha bakalářské práce, pro ukládání výslekdů měření.
+
+Výsledky jsou rozdeleny podle typu kapaliny a následně typu měření
+
+Specifické pojmenování souborů slouží hlavně k jejich seřazení ve složce
+
+**koncentrace_xy_napětí zdrojeV_Rf_převodní odpor**
+- Koncentrace vzorku
+- *x* typ měření
+  - 1 -> 300 Hz
+  - 2 -> 1 kHz    1 až 3 jsou pro buzení harmonickým i obdélníkovým signálem
+  - 3 -> 10kHz
+  - 4 -> Frekveční nalaýza
+  - 5 -> Odezva na jednotkový skok
+- *y* pořadí měření
+- Napětí budícího generátoru
+- Hodnota převodní odporu
+
 
 ## Fotka pracoviště
-<img src="Fotky%20z%20měření/pracoviště.jpg" alt="Fotka pracoviště" width="500">
+<img src="Fotky%20z%20měření/Pracoviste2.jpg" alt="Fotka pracoviště" width="500">
 
 ## Vzorky kapalin
-<img src="Fotky%20z%20měření/vzorky.jpg" alt="Vzorky kapalin" width="500">
+<img src="Fotky%20z%20měření/Vzorky.jpg" alt="Vzorky kapalin" width="500">
