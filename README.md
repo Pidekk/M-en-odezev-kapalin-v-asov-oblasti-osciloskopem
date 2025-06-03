@@ -8,7 +8,7 @@ Specifické pojmenování souborů slouží hlavně k jejich seřazení ve slož
 - Koncentrace vzorku
 - *x* typ měření
   - 1 → 300 Hz   ┌────────
-  - 2 → 1 kHz    │ 1 až 3 slouží k označení měření nelinearity i frekvečního spektra
+  - 2 → 1 kHz     │ 1 až 3 slouží k označení měření nelinearity i frekvečního spektra
   - 3 → 10 kHz   └────────
   - 4 -> Frekveční nalaýza
   - 5 -> Odezva na jednotkový skok
