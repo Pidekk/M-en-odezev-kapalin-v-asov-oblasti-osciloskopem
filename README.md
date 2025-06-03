@@ -8,7 +8,7 @@ Specifické pojmenování souborů slouží hlavně k jejich seřazení ve slož
 - Koncentrace vzorku
 - *x* typ měření
   - 1 -> 300 Hz
-  - 2 -> 1 kHz    1 až 3 jsou pro buzení harmonickým i obdélníkovým signálem
+  - 2 -> 1 kHz 
   - 3 -> 10kHz
   - 4 -> Frekveční nalaýza
   - 5 -> Odezva na jednotkový skok
