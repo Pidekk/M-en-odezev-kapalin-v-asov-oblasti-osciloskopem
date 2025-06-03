@@ -1,10 +1,8 @@
 # Měření odezev kapalin v časovové oblasti osciloskopem
 Tento repozitář slouží jako příloha bakalářské práce, pro ukládání výslekdů měření.
-
-Výsledky jsou rozdeleny podle typu kapaliny a následně typu měření
+Výsledky jsou rozděleny podle typu kapaliny a následně typu měření
 
 Specifické pojmenování souborů slouží hlavně k jejich seřazení ve složce
-
 **koncentrace_xy_napětí zdrojeV_Rf_převodní odpor**
 - Koncentrace vzorku
 - *x* typ měření
@@ -17,9 +15,8 @@ Specifické pojmenování souborů slouží hlavně k jejich seřazení ve slož
 - Napětí budícího generátoru
 - Hodnota převodní odporu
 
-
 ## Fotka pracoviště
-<img src="Fotky%20z%20měření/Pracoviste2.jpg" alt="Fotka pracoviště" width="500">
+<img src="Fotky%20z%20měření/Pracovsite2.jpg" alt="Fotka pracoviště" width="500">
 
 ## Vzorky kapalin
 <img src="Fotky%20z%20měření/Vzorky.jpg" alt="Vzorky kapalin" width="500">
