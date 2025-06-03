@@ -4,20 +4,21 @@ Výsledky jsou rozděleny podle typu kapaliny a následně typu měření
 
 Specifické pojmenování souborů slouží hlavně k jejich seřazení ve složce
 
-**koncentrace_xy_napětí zdrojeV_Rf_převodní odpor**
+**koncentrace_xy_napětí zdrojeV_Rf_převodní odpor.csv**
 - Koncentrace vzorku
 - *x* typ měření
   ```
-  - 1 → 300 Hz   ┐
-  - 2 → 1  kHz   ┤─── 1 až 3 slouží k označení meření nelineairty a frekvečního spektra
-  - 3 → 10 kHz   ┘
-  - 4 -> Frekveční nalaýza
-  - 5 -> Odezva na jednotkový skok
+   1 → 300 Hz   ┐
+   2 → 1 kHz    ┤─── 1 až 3 slouží k označení meření nelineairty a frekvečního spektra
+   3 → 10 kHz   ┘
+   4 -> Frekveční nalaýza
+   5 -> Odezva na jednotkový skok
   ```
-  
 - *y* pořadí měření
 - Napětí budícího generátoru
 - Hodnota převodní odporu
+
+Př.: 20_21_300mV_Rf_100k_square.csv
 
 ## Fotka pracoviště
 <img src="Fotky%20z%20měření/Pracovsite2.jpg" alt="Fotka pracoviště" width="500">
