@@ -3,6 +3,7 @@ Tento repozitář slouží jako příloha bakalářské práce, pro ukládání 
 Výsledky jsou rozděleny podle typu kapaliny a následně typu měření
 
 Specifické pojmenování souborů slouží hlavně k jejich seřazení ve složce
+
 **koncentrace_xy_napětí zdrojeV_Rf_převodní odpor**
 - Koncentrace vzorku
 - *x* typ měření
